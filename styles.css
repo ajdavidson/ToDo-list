@@ -47,8 +47,20 @@ code {
   height: 2.25em;
   font-size: 24px;
 }
-
+/* .input:after{
+  font-family: "Font Awesome 5 Free";
+  font-weight: 400;
+  content: "\f0fe";
+} */
 button {
   border: 0;
   color: green;
+}
+
+.fa-trash{
+  color: rgb(202, 54, 28);
+}
+
+.fa-clipboard-check {
+  color:#0f2431;
 }
