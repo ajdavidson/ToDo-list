@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./demo.png" alt="ToDo List" width="60%"/>
+  <img src="./demo.png" alt="ToDo List" width="40%"/>
 
   &#xa0;
 
