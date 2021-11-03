@@ -46,23 +46,22 @@
 
 ## :dart: About ##
 
-The beginnings of a ToDo list React app
+The beginnings of a ToDo list React CRUD app
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: Feature: C\
+:heavy_check_mark: Feature: R\
+:heavy_check_mark: Feature: U\
+:heavy_check_mark: Feature: D
 
 ## :rocket: Technologies ##
 
 The following tools were used in this project:
 
-- [Expo](https://expo.io/)
 - [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+
 
 ## :white_check_mark: Requirements ##
 
@@ -77,11 +76,6 @@ $ git clone https://github.com/ajdavidson/todo-list
 # Access
 $ cd todo-list
 
-# Install dependencies
-$ yarn
-
-# Run the project
-$ yarn start
 
 # The server will initialize in the <http://localhost:3000>
 ```
