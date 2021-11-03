@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="ToDo List" />
+  <img src="./demo.png" alt="ToDo List" width="60%"/>
 
   &#xa0;
 
